@@ -3,7 +3,7 @@
 ## Hi 👋 I am Ali Zaidi! 
 I am a developer who is passionate about stuff like backend web development, devOps, computer networks etc. Few technologies that I enjoy working in are Python, Nodejs, C/C++ and Linux. I am actively looking for opportunities in Web Development.
 - 👨🏽‍💻 Currently working, learning and growing my skillset in network programming/backend web dev with python and Nodejs, competitive coding, data structures and algorithms.
-- 🤝 Open for collaborations in Web and application development.
+- 🤝 Open for collaborations in Web development.
 
 ---
 
@@ -13,7 +13,7 @@ I am a developer who is passionate about stuff like backend web development, dev
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Enigmage&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Enigmage&hide=css,java,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Enigmage&theme=tokyonight">
 </p>
 
 </details>
