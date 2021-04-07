@@ -4,8 +4,9 @@
 I am a developer who is passionate about stuff like Full Stack web development and DevOps. Few technologies that I enjoy working in are Python, Nodejs, C/C++, Linux and Docker. I am actively looking for opportunities in Web Development.
 
 👨🏽‍💻 Currently working, learning and growing my skillset in:
-- network programming/backend web dev with python and Nodejs, competitive coding, data structures and algorithms.
+- Network programming/Backend Web Development with python and Nodejs.
 - Front-end development with React(typescript/javascript).
+- Problem Solving, Data structures and Algorithms using platforms like Leetcode, Hackerrank, GeeksforGeeks, Codeforces and Codechef.
 
 👨🏽‍💻  Open for collaborations in Web Development and Desktop application development(GUI/command-line).
 
