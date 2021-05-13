@@ -1,14 +1,14 @@
 <a href="https://www.linkedin.com/in/ali-zaidi-a3537b153/" target="_blank" rel="nofollow"><img align="right" alt="Ali's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 ## Hi 👋 I am Ali Zaidi! 
-I am a developer who is passionate about stuff like Full Stack web development and DevOps. Few technologies that I enjoy working in are Python, Nodejs, C/C++, Linux and Docker. I am actively looking for opportunities in Web Development.
+I am a developer who is passionate about stuff like Full-Stack web development and DevOps. Few technologies that I enjoy working in are Python, Nodejs, C/C++, Linux and Docker. 
 
 👨🏽‍💻 Currently working, learning and growing my skillset in:
 - Network programming/Backend Web Development with python and Nodejs.
-- Front-end development with React(typescript/javascript).
-- Problem Solving, Data structures and Algorithms using platforms like Leetcode, Hackerrank, GeeksforGeeks, Codeforces and Codechef.
+- Front-end web development with React(typescript/javascript).
+- Problem Solving, Data structures and Algorithms using platforms like Leetcode, GeeksforGeeks, Codeforces.
 
-👨🏽‍💻  Open for collaborations in Web Development and Desktop application development(GUI/command-line).
+👨🏽‍💻  Open for collaborations in Full-Stack Web Development and Desktop application development(GUI/command-line).
 
 ---
 
