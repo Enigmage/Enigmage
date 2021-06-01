@@ -2,7 +2,7 @@
 
 ## Hi 👋 I am Ali Zaidi! 
 
-👨🏽‍💻 I'm Currently working, learning and growing my skillset in:
+👨🏽‍💻 Currently working, learning and growing my skillset in:
 - Network programming and Backend Web Development with Python and Nodejs.
 - Front-end web development with React(typescript/javascript).
 - Problem Solving, Data structures and Algorithms using platforms like Leetcode, GeeksforGeeks, Codeforces.
