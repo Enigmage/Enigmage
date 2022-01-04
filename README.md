@@ -2,10 +2,8 @@
 
 ## Hi 👋 I am Ali Zaidi! 
 
-👨🏽‍💻 Currently working, learning and growing my skillset in:
-- Network programming and Backend Web Development with Python and Nodejs.
-- Front-end web development with React(typescript/javascript).
-- Problem Solving, Data structures and Algorithms using platforms like Leetcode, GeeksforGeeks, Codeforces.
+
+I'm a dedicated Full stack developer with keen interest in System design, DevOps and Cloud computing, and a passionate open source contributor and enthusiast. I'm also fascinated by theoretical computer science and programming language design. I have experience working as a Fullstack(MERN) Developer Intern at [Listiee](https://listiee.com) and I am currently the Tech Lead at [Google Student Developer Club (GDSC), Amity University Lucknow](https://github.com/GoogleDSC-AUL).
 
 ---
 
