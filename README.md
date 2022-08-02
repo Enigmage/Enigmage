@@ -3,12 +3,10 @@
 ## Hi 👋 I am Ali Zaidi! 
 
 
-I'm a dedicated Full stack developer with keen interest in System design, DevOps and Cloud computing, and a passionate open source contributor. I'm also fascinated by theoretical computer science and programming language design. I have experience working as a Fullstack(MERN) Developer Intern at [Listiee](https://listiee.com) and I am currently the Tech Lead at [Google Student Developer Club (GDSC), Amity University Lucknow](https://github.com/GoogleDSC-AUL).
-
----
+I'm a dedicated Fullstack Developer from Lucknow, India with keen interest in distributed systems, decentralized technology, databases and functional programming. I'm also fascinated by theoretical computer science and programming language design.
 
 
-<details open>
+<!--<details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
@@ -16,5 +14,5 @@ I'm a dedicated Full stack developer with keen interest in System design, DevOps
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Enigmage&hide=mako,css,html&theme=dracula">
 </p>
 
-</details>
+</details>-->
 
