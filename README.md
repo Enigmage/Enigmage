@@ -3,7 +3,7 @@
 ## Hi 👋 I am Ali Zaidi! 
 
 
-I'm a dedicated Fullstack Developer from Lucknow, India with keen interest in distributed systems, decentralized technology, databases and functional programming. I'm also fascinated by theoretical computer science and programming language design.
+I'm a dedicated Fullstack Developer from Lucknow, India with keen interest in distributed systems, decentralized technology, databases and functional programming. I'm also a computer science student, currently pursuing my Bachelors from Amity University.
 
 
 <!--<details open>
