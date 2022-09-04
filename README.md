@@ -6,7 +6,7 @@
 I'm a dedicated Fullstack Developer from Lucknow, India with keen interest in distributed systems, decentralized technology, databases and functional programming. I'm also a computer science student, currently pursuing my Bachelors from Amity University.
 
 
-<!--<details open>
+<details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
@@ -14,5 +14,5 @@ I'm a dedicated Fullstack Developer from Lucknow, India with keen interest in di
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Enigmage&hide=mako,css,html&theme=dracula">
 </p>
 
-</details>-->
+</details>
 
