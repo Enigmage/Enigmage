@@ -2,7 +2,7 @@
 
 ## Hi 👋 I am Ali Zaidi! 
 
-I'm a professional Fullstack Developer and a CS Undergrad(2023) from Lucknow, India.
+I'm a passionate Software Developer from Lucknow, India.  
 
 My Interests
 * Distributed systems 
