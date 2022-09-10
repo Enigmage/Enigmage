@@ -25,8 +25,8 @@ Contact information:
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Enigmage&count_private=true&show_icons=true&theme=dracula&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Enigmage&hide=mako,css,html&theme=dracula">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Enigmage&count_private=true&show_icons=true&theme=dracula&line_height=25">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Enigmage&hide=mako,css,html,shell&theme=dracula">
 </p>
 
 </details>
