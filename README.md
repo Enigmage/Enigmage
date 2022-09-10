@@ -4,11 +4,11 @@
 
 I'm a passionate Software Developer from Lucknow, India.  
 
-My Interests
+My current interests:
 * Distributed systems 
-* Decentralized technology  
-* Databases
-* Functional programming 
+* Decentralized tech
+* Database Design
+* Functional programming
 
 Find me on:
 
