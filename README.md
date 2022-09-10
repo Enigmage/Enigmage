@@ -6,9 +6,9 @@ I'm a passionate Software Engineer from Lucknow, India.
 
 About me:
 
-* Currently pursuing a Bachelors in Computer Science(2023 Grad)
+* Currently pursuing a Bachelors in Computer Science(2023 Grad) from Amity University
 * Ex SDE Intern `<at>` [Listiee](https://www.linkedin.com/company/listiee/)
-* Ex Tech Lead `<at>` Google Developers Student Clubs, Amity University, Lucknow 
+* Ex Tech Lead `<at>` Google Developers Student Clubs, AULC 
 
 My current interests:
 * Distributed systems 
