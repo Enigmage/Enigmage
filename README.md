@@ -16,11 +16,6 @@ My current interests:
 * Database Design
 * Functional programming
 
-Find me on:
-
-- [Linkedin](https://www.linkedin.com/in/ali-abbas-zaidi-a3537b153/)
-- [Twitter](https://twitter.com/aali_zaidi)
-
 Contact information:
 
 - Email: `alizaidi9 <at> duck.com`
