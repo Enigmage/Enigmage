@@ -2,7 +2,7 @@
 
 ## Hi 👋 I am Ali Zaidi! 
 
-I'm a passionate Software Engineer from Lucknow, India. 
+I'm a passionate Software Developer from Lucknow, India. 
 
 About me:
 
