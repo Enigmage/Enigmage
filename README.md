@@ -6,7 +6,7 @@ I'm a passionate Software Developer from Lucknow, India.
 
 About me:
 
-* Pursuing a Bachelors in Computer Science(2023 Grad) from Amity University
+* Pursuing a Bachelors in Computer Science(2023 Grad)
 * Ex Developer Intern `<at>` [Listiee](https://www.linkedin.com/company/listiee/)
 * Ex Tech Lead `<at>` Google Developers Student Clubs, AULC 
 
