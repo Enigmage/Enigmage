@@ -17,7 +17,7 @@ import tailwind from "@astrojs/tailwind";
 // the url to access your blog during local development
 const LOCALHOST_URL = `http://localhost:3000`;
 // the url to access your blog after deploying it somewhere (Eg. Netlify)
-const LIVE_URL = "https://enigmage.github.io";
+const LIVE_URL = "https://enigmage.github.io/enigmage";
 // this is the astro command your npm script runs
 const SCRIPT = process.env.npm_lifecycle_script || "";
 const isBuild = SCRIPT.includes("astro build");
@@ -30,7 +30,6 @@ if (isBuild) {
 export default defineConfig({
   // server: { port: SERVER_PORT },
   site: BASE_URL,
-  base: "/Enigmage",
   integrations: [
     sitemap(),
     tailwind({
