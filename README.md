@@ -27,6 +27,6 @@ Contact information:
 <br>
 <p align = "center">
   <!--<img src = "https://github-readme-stats.vercel.app/api?username=Enigmage&count_private=true&show_icons=true&theme=dracula&line_height=25">-->
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Enigmage&hide=mako,css,html,shell&exclude_repo=Dotfiles&langs_count=5&layout=compact">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Enigmage&hide=mako,css,html,shell,astro&exclude_repo=Dotfiles&langs_count=5&layout=compact">
 </p>
 </details>
