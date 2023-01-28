@@ -10,13 +10,6 @@ About me:
 - Ex Developer Intern `<at>` [Listiee](https://www.linkedin.com/company/listiee/)
 - Ex Tech Lead `<at>` Google Developers Student Clubs, AULC
 
-My current interests:
-
-- Distributed systems
-- Decentralized tech
-- Database Design
-- Functional programming
-
 Contact information:
 
 - Email: `alizaidi9 <at> duck.com`
