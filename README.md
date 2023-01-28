@@ -1,5 +1,3 @@
-<a href="https://www.linkedin.com/in/ali-zaidi-a3537b153/" target="_blank" rel="nofollow"><img align="right" alt="Ali's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-
 ## Hi 👋 I am Ali Zaidi!
 
 I'm a passionate Software Developer from Lucknow, India.
@@ -9,6 +7,11 @@ About me:
 - Pursuing a Bachelors in Computer Science(2023 Grad)
 - Ex Developer Intern `<at>` [Listiee](https://www.linkedin.com/company/listiee/)
 - Ex Tech Lead `<at>` Google Developers Student Clubs, AULC
+
+Socials:
+
+- [Linkedin](https://www.linkedin.com/in/ali-abbas-zaidi-a3537b153/)
+- [Twitter](https://twitter.com/aali_zaidi)
 
 Contact information:
 
