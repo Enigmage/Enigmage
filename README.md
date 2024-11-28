@@ -1,17 +1,10 @@
 ## Hi 👋 I am Ali Zaidi!
 
-I'm a passionate Software Developer from Lucknow, India.
-
-About me:
-
-- Pursuing a Bachelors in Computer Science(2023 Grad)
-- Ex Developer Intern `<at>` [Listiee](https://www.linkedin.com/company/listiee/)
-- Ex Tech Lead `<at>` Google Developers Student Clubs, AULC
+I'm a Software Developer at SAP Labs
 
 Socials:
 
 - [Linkedin](https://www.linkedin.com/in/ali-abbas-zaidi-a3537b153/)
-- [Twitter](https://twitter.com/aali_zaidi)
 
 Contact information:
 
